@@ -1,0 +1,8 @@
+{
+   "lists":[ 
+        {"id": 1, "text": "Milk" },
+        {"id": 2, "text": "Eggs" },
+        {"id": 3, "text": "Bread" },
+        {"id": 4, "text": "Juice"}
+    ]
+}
